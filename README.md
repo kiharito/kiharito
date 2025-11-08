@@ -1,10 +1,4 @@
 ## Profile
-![profile-details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kiharito&theme=github_dark)
-![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kiharito&theme=github_dark)
-![most-commit-language](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kiharito&theme=github_dark)
-![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kiharito&theme=github_dark)
-![productive-time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kiharito&theme=github_dark&utcOffset=9)
-
 <!--
 **kiharito/kiharito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
